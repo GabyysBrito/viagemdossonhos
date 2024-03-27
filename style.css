@@ -8,7 +8,7 @@ h1 {
     font-size: 63px;
     color: #303030;
     padding: 15px;
-    color: white;
+    color: rgb(3, 2, 2);
     text-align: center;
 }
 
@@ -18,3 +18,18 @@ h2{
     color: #303030;
     font-weight: 600;
 }
+
+.carousel-caption h5{
+    font-size: 70px;
+    color: #ffc107;
+    text-shadow: 2px 2px 2px black;
+}
+
+.carousel-item img{
+    height: 650px;
+}
+
+.row .col img{
+    height: 380px;
+}
+
